@@ -26,6 +26,10 @@ body {
   border-radius: 20px;
 }
 
+.author {
+  font-weight: lighter;
+}
+
 .fa-quote-right, .fa-quote-left{
   position: absolute;
   font-size: 3.2em;
